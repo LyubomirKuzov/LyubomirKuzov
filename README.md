@@ -14,8 +14,8 @@
 <br/>
 
 <div>
-  <img height="160" width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=LyubomirKuzov&count_private=true&true&hide=issues&show_icons=true"/>
-  <img height="160" width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyubomirKuzov&layout=compact"/>
+  <img height="120" width="200" align="center" src="https://github-readme-stats.vercel.app/api?username=LyubomirKuzov&count_private=true&true&hide=issues&show_icons=true"/>
+  <img height="120" width="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyubomirKuzov&layout=compact"/>
 </div>
 
   |🎓 Certificates |
