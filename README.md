@@ -24,3 +24,4 @@
   | :heavy_check_mark: [**C# Fundamentals**](https://softuni.bg/certificates/details/86100/9533d136)|
   | :heavy_check_mark: [**C# Advanced**](https://softuni.bg/certificates/details/90366/3a324445)|
   | :heavy_check_mark: [**C# OOP**](https://softuni.bg/certificates/details/95802/dcd409e6)|
+  | :heavy_check_mark: [**MS SQL**](https://softuni.bg/certificates/details/97872/33fd9043)|
